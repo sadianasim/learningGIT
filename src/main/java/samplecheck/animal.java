@@ -19,6 +19,8 @@ class dog extends cat{
     {
         animal ai = new dog();
         ai.walk();
+        animal a2 = new dog();
+        a2.walk(); // newly added
     }
 }
 
