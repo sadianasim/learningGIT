@@ -1,7 +1,7 @@
 package samplecheck;
  class animal {
      void walk() {
-         System.out.println("animal walking");
+         System.out.println("animal walking and can talk too");
      }
  }
  class cat extends animal{
