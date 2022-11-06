@@ -13,7 +13,7 @@ package samplecheck;
 class dog extends cat{
     @Override
     void walk() {
-        System.out.println("dog talking");
+        System.out.println("dog is walking into the streams");
     }
     public static void main (String args[])
     {
