@@ -21,6 +21,7 @@ class dog extends cat{
         ai.walk();
         animal a2 = new dog();
         a2.walk(); // newly added
+        System.out.println("Updating from StreamOwner");
     }
 }
 
