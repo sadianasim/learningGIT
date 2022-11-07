@@ -22,6 +22,7 @@ class dog extends cat{
         animal a2 = new dog();
         a2.walk(); // newly added
         System.out.println("Last Update from StreamOwner");
+        System.out.println("Newly added");
     }
 }
 
